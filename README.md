@@ -53,7 +53,7 @@ Javascript
 
 ## Author
 
-- Website - [Veronica Keevah Ogunniyi](https://www.verele.netlify.app)
+- Website - [verele](https://www.verele.netlify.app)
 - Frontend Mentor - [@Keevah](https://www.frontendmentor.io/profile/keevah)
 - Twitter - [@fallible_coder](https://www.twitter.com/fallible_coder)
 
